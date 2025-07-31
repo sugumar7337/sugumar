@@ -1,4 +1,3 @@
 # sugumar
 it is a program
-# program zoon
-# hacker problem
+# program zoon for beginers
